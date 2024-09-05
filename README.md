@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jobonano
+- 👋 Hi, I’m @Andrew_Joshua
 - 👀 I’m interested in Machine Leaning models
 - 🌱 I’m currently learning ... Deep neural network
 - 💞️ I’m looking to collaborate on ...
